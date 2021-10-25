@@ -1,0 +1,31 @@
+
+body{
+    background: rgb(21, 21, 70);
+}
+#container{
+    top: 500px;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+#main-form{
+    height: 500px;
+    width: 500px;
+    margin-top:200px ;   
+}
+#main-form h1{
+  text-align: center;
+color: #fff;
+}
+#main-form h4{
+  text-align: center;
+color: #fff;
+
+}
+/* #main-form h4:hover{
+  text-align: center;
+color: rgb(2, 2, 2);
+
+} */
